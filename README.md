@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I love tinkering with data
+I love tinkering with data and creating stuff with Python.
 
 - 🔭 I’m currently working on a personal project
 - 🖥️ I have a [website]()
